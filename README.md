@@ -2,4 +2,4 @@
 - 🌱 Estudando Desenvolvimento de Sistemas
 - 📫 Contate-me pelo email: corazzab9@gmail.com
 
-https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
